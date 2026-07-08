@@ -7,7 +7,7 @@ git clone --bare <URL LAMA> temp-repo.git
 cd temp-repo.git
 git push --mirror <URL BARU>
 ```
-*(Setelah selesai, folder `temp-repo.git` bisa dihapus, untuk paste urlnya timpa <URL LAMA> nya).*
+*(Setelah selesai, folder `temp-repo.git` bisa dihapus, untuk paste urlnya timpa `<URL LAMA>` nya).*
 
 ---
 
